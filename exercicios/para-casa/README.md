@@ -1,11 +1,24 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Meu README
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+- Vamos utilizar o que aprendemos hoje em aula. Calma, não fique nervosa achando que não vai conseguir. Reveja os slides, dê uma olhada nos links úteis disponibilizados e qualquer outra dúvisa, utilize o Classroom para fazer sua pergunta.
 ---
+•	Tarefa de casa
+* Forkar o repositório da aula
+* Criar uma nova branch com seu nome
+* Criar um README com um resumo dos textos disponibilizados para pesquisa
+* Neste README precisa conter alguma propriedade markdown
+* Realizar um commit semântico
+* Fazer um pull request
+
+
+•	Tarefa de casa – plano B
+* Atualizar o README criado em sala com um resumo dos textos disponibilizados para pesquisa
+* Neste README precisa conter alguma propriedade markdown
+* Realizar um commit semântico
+* Fazer um push para o seu repositório
+
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
