@@ -350,6 +350,56 @@ git diff                        | mostra no terminal a diferença entre os arqui
 
 Ele permite escrever e formatar usando códigos simples, que não atrapalham a leitura. O objetivo do Markdown é torná-lo o mais legível possível. A ideia é que um documento formatado pelo Markdown seja publicável como está, como texto simples, sem parecer que foi marcado com tags ou instruções de formatação. Embora a sintaxe do Markdown tenha sido influenciada por vários filtros de texto para HTML existentes, a maior fonte de inspiração para a sintaxe do Markdown é o formato de e-mail de texto simples.
 
+#### *Vamos ver alguns atalhos básicos para Markdown?*
+---
+
+**Exemplos de titulação:**
+
+# Título 1
+ Exemplo:  # 1 hashtag #
+ ## Título 2
+ Exemplo:  ## 2 hashtag ##
+ ### Título 3
+ Exemplo:  ### 3 hashtag ###
+
+---
+ **Ênfase:**
+
+ **Negrito**
+ 
+ Exemplo: ** 2 asteriscos **
+
+ *Itálico*
+ 
+ Exemplo: * 1 asterisco *
+
+ ---
+ **Listas de itens:**
+
+ Listas não ordenadas: utilize um asterisco * na frente do item
+
+* Item 1
+* Item 2
+* Item 3
+
+ Listas ordenadas: utilize o número do item seguido de ponto .
+
+1. Item 1
+2. Item 2
+3. Item 3
+---
+
+**Emoji:**
+
+Insira o nome do emoji entre dois pontos 
+
+Exemplo: : heart :
+:heart:
+
+
+#### Confira a lista com vários atalhos para estilizar seu texto
+(https://www.markdownguide.org/basic-syntax/)
+
 
 ### **Commits semânticos**
 Commit semântico ou conventional commit, é uma das formas que se pode fazer padronização de commits dentro de um projeto de desenvolvimento de software.
