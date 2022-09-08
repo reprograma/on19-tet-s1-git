@@ -6,7 +6,7 @@
 
 ## **O que é uma biblioteca? **
 
-[biblioteca.gif]
+<img scr="biblioteca.gif">
 
 Uma biblioteca tem como função colecionar códigos que são utilizados a resolver problemas designados a desenvolvedores
 
@@ -14,7 +14,7 @@ Para explicações mais detalhadas, [clique aqui](https://coodesh.com/blog/dicio
 
 ## **O que é um framework? **
 
-[framework.gif]
+<img scr="framework.gif">
 
 Um framework tem como intuito agilizar uma nova função dentro do código formulado.
 
@@ -26,7 +26,7 @@ Para explicações mais detalhadas, [clique aqui](https://www.lewagon.com/pt-BR/
 
 
 ## **O que é um algoritmo? **
-[algoritmo.gif]
+<img scr="algoritmo.gif">
 
 Um algoritmo nada mais é do que um conjunto de instruções para determinada ação; na área da tecnologia, um algoritmo tem como emprego dar instruções de ações através de códigos, executando ações para determinados comandos.
 
