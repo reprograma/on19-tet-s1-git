@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src=”https://i.stack.imgur.com/9v5bJ.png” alt="imagem biblioteca e framework">
+  <img src="https://i.stack.imgur.com/9v5bJ.png" alt="imagem biblioteca e framework">
 </h1>
 
 # Diferenças entre Framework e Biblioteca:
 
-##Framework? Biblioteca? Mas do que raios você tá falando? 
+## Framework? Biblioteca? Mas do que raios você tá falando? 
 
 <h1 align="center">
   <img src=”https://media.tenor.com/__WG7VCNx08AAAAC/yelling-will-smith.gif” alt="Will Smith sem entender nada">
@@ -40,7 +40,7 @@ Como exemplos, podemos citar:
   <img src=”https://media.tenor.com/LZ0NFZBc_2kAAAAM/confused-fresh-prince.gif” alt="Will Smith ainda confuso">
 </h1>
 
-###E como identificar qual é qual?
+### E como identificar qual é qual?
 Normalmente as bibliotecas **são usadas** pelos nossos códigos, enquanto os frameworks é **quem** costumam utilizar os nossos códigos.
 
 <h1 align="center">
