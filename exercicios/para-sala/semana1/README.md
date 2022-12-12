@@ -52,5 +52,5 @@ Espero que tenham entendido e gostado desse README \o/
 Até a próxima!
 
 <h1 align="center">
-<img src=”img/will-smith.3” alt="Will Smith que agora que entendeu o conteúdo está feliz" width="400">
+![Alt text](https://i.pinimg.com/originals/af/a9/39/afa939bca40b1969527e37a1ea20a1e3.gif)
 </h1>
