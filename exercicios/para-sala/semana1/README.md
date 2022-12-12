@@ -7,7 +7,7 @@
 ## Framework? Biblioteca? Mas do que raios você tá falando? 
 
 <h1 align="center">
-  <img src=”https://media.tenor.com/__WG7VCNx08AAAAC/yelling-will-smith.gif” alt="Will Smith sem entender nada" width="400">
+  <img src=”img/will-smith.1” alt="Will Smith sem entender nada" width="400">
 </h1>
 
 Calma, vamos por partes. 
@@ -37,14 +37,14 @@ Como exemplos, podemos citar:
 - LoopBack: Framework que cria APIs e microserviços com Node.js. 
 
 <h1 align="center">
-  <img src=”https://media.tenor.com/LZ0NFZBc_2kAAAAM/confused-fresh-prince.gif” alt="Will Smith ainda confuso" width="400">
+  <img src=”img/will-smith.2” alt="Will Smith ainda confuso" width="400">
 </h1>
 
 ### E como identificar qual é qual?
 Normalmente as bibliotecas **são usadas** pelos nossos códigos, enquanto os frameworks é **quem** costumam utilizar os nossos códigos.
 
 <h1 align="center">
-<img src=”https://media.tenor.com/xvo8-YQ78P0AAAAC/porky-pig.gif” alt="Imagem Isso é Tudo Pessoal" width="400">
+<img src=”img/thatsallfolks” alt="Imagem Isso é Tudo Pessoal" width="400">
 </h1>
 
 Espero que tenham entendido e gostado desse README \o/
@@ -52,5 +52,5 @@ Espero que tenham entendido e gostado desse README \o/
 Até a próxima!
 
 <h1 align="center">
-<img src=”https://i.pinimg.com/originals/af/a9/39/afa939bca40b1969527e37a1ea20a1e3.gif” alt="Will Smith que agora que entendeu o conteúdo está feliz" width="400">
+<img src=”img/will-smith.3” alt="Will Smith que agora que entendeu o conteúdo está feliz" width="400">
 </h1>
