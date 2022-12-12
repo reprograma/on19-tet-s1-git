@@ -1,9 +1,14 @@
-<img src=”https://i.stack.imgur.com/9v5bJ.png”>
+<h1 align="center">
+  <img src=”https://i.stack.imgur.com/9v5bJ.png” alt="imagem biblioteca e framework">
+</h1>
 
-## Resumo das diferenças entre Framework e Biblioteca:
-Framework? Biblioteca? Mas do que raios você tá falando? 
+# Diferenças entre Framework e Biblioteca:
 
-<img src=”https://media.tenor.com/__WG7VCNx08AAAAC/yelling-will-smith.gif”>
+##Framework? Biblioteca? Mas do que raios você tá falando? 
+
+<h1 align="center">
+  <img src=”https://media.tenor.com/__WG7VCNx08AAAAC/yelling-will-smith.gif” alt="Will Smith sem entender nada">
+</h1>
 
 Calma, vamos por partes. 
 
@@ -31,16 +36,21 @@ Como exemplos, podemos citar:
 - Express: Framework que cria aplicações com Node.js;
 - LoopBack: Framework que cria APIs e microserviços com Node.js. 
 
-<img src=”https://media.tenor.com/LZ0NFZBc_2kAAAAM/confused-fresh-prince.gif”>
+<h1 align="center">
+  <img src=”https://media.tenor.com/LZ0NFZBc_2kAAAAM/confused-fresh-prince.gif” alt="Will Smith ainda confuso">
+</h1>
 
 ###E como identificar qual é qual?
 Normalmente as bibliotecas **são usadas** pelos nossos códigos, enquanto os frameworks é **quem** costumam utilizar os nossos códigos.
 
-<img src=”https://media.tenor.com/xvo8-YQ78P0AAAAC/porky-pig.gif”>
+<h1 align="center">
+<img src=”https://media.tenor.com/xvo8-YQ78P0AAAAC/porky-pig.gif” alt="Imagem Isso é Tudo Pessoal">
+</h1>
 
 Espero que tenham entendido e gostado desse README \o/
 
 Até a próxima!
 
-<img src=”https://i.pinimg.com/originals/af/a9/39/afa939bca40b1969527e37a1ea20a1e3.gif”>
-
+<h1 align="center">
+<img src=”https://i.pinimg.com/originals/af/a9/39/afa939bca40b1969527e37a1ea20a1e3.gif” alt="Will Smith que agora que entendeu o conteúdo está feliz">
+</h1>
