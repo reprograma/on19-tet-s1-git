@@ -1,6 +1,6 @@
 # O que é Markdown ?
 
-## Linguagem simples de marcação leve, usada para formatar textos de forma simples e  rápida. Contendo cabeçalhos, listas, links etc
+## Linguagem simples de marcação leve, usada para formatar textos de forma simples e  rápida. Contendo cabeçalhos, listas, links etc.
 
 ## Como criar um arquivo Mardown ?
 1. Abra o eu editor de texto (bloco de notas do Windows ou TextEdit do Mac)
